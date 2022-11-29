@@ -1,0 +1,22 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 201,
+	"service_label": "DISTRIBUTION_CHANNEL",
+	"DistributionChannel": {
+		"DistributionChannel": "DS",
+		"Text": {
+			"DistributionChannel": "DS",
+			"Language": "JA",
+			"DistributionChannelName": "直接販売"
+		}
+	},
+	"api_schema": "DPFMDistributionChannelCreates",
+	"accepter": ["DistributionChannel"],
+	"distribution_channel_id": null,
+	"deleted": false
+}
